@@ -1,0 +1,6 @@
+@iTsoftNex.IdentityService_HostAddress = http://localhost:5240
+
+GET {{iTsoftNex.IdentityService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

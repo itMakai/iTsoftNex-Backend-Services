@@ -1,0 +1,10 @@
+# Visual Studio Code Cache
+.vscode/
+
+# Visual Studio user specific files
+## IMPORTANT: This is the folder causing your current error
+.vs/ 
+
+# NuGet packages (Should be ignored to keep repo small)
+**/[Bb]in/
+**/[Oo]bj/

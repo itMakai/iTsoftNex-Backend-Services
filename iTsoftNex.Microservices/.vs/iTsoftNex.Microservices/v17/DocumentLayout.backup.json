@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\itsoftnex.identityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\itsoftnex.identityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|c:\\users\\danie\\desktop\\repos\\itsoftnex-backend-services\\itsoftnex.microservices\\itsoftnex.identityservice\\itsoftnex.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53F537A7-77F7-473F-ACAA-61067160A357}|iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj|solutionrelative:itsoftnex.identityservice\\itsoftnex.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Program.cs",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:22:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAACAAAAAAAAgwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:12:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\appsettings.json",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\appsettings.json",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T10:08:05.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:58:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iTsoftNex.IdentityService",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T09:55:24.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:02:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\WeatherForecast.cs",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:54:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iTsoftNex.IdentityService",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "RelativeDocumentMoniker": "iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Repos\\iTsoftNex-Backend-Services\\iTsoftNex.Microservices\\iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "RelativeToolTip": "iTsoftNex.IdentityService\\iTsoftNex.IdentityService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T09:54:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
