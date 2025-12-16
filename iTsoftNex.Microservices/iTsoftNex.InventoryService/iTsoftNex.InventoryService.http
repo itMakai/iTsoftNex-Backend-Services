@@ -1,0 +1,6 @@
+@iTsoftNex.InventoryService_HostAddress = http://localhost:5286
+
+GET {{iTsoftNex.InventoryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
