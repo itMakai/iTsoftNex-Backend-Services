@@ -27,7 +27,6 @@ namespace iTsoftNex.IdentityService.Controllers
         {
             var user = new ApplicationUser
             {
-                // FullName is initialized here, satisfying the non-nullable check
                 UserName = model.Email,
                 Email = model.Email,
                 FullName = model.FullName
@@ -57,8 +56,7 @@ namespace iTsoftNex.IdentityService.Controllers
                 // 1. Define Claims
                 var authClaims = new List<Claim>
                 {
-                    // FIX: user.UserName and user.Id are guaranteed to be non-null after FindByNameAsync, 
-                    // so we use '!' to remove the warning.
+
                     new Claim(ClaimTypes.Name, user.UserName!),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                     new Claim("UserId", user.Id!), 
@@ -66,8 +64,7 @@ namespace iTsoftNex.IdentityService.Controllers
                     new Claim("StoreId", user.StoreId.ToString())
                 };
 
-                // 2. Create the Token
-                // FIX: Added '!' to safely access configuration values
+
                 var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JwtSettings:SecretKey"]!));
 
                 var token = new JwtSecurityToken(
@@ -89,9 +86,9 @@ namespace iTsoftNex.IdentityService.Controllers
         }
     }
 
-    // Simple models for request body
+
     public record RegisterModel(string FullName, string Email, string Password);
 
-    // FIX: Removed the extra 'string' from the Password parameter
+    
     public record LoginModel(string Email, string Password);
 }
